@@ -94,11 +94,17 @@ spring:
 _O desafio acima foi cuidadosamente construído para propósitos de avaliação apenas._
 
 
-###Solução
+### Solução
 Para agendar o pagamento, basta inserir apenas a data e hora no formato(dd/mm/yyyy HH:mm). É retornado as informações sobre o agendamento como o id, para acompanhamento, a data e hora escolhido e os status 
-(C:\Users\Jose\Downloads\post)
-(C:\Users\Jose\Downloads\post response)
+
+![post](https://user-images.githubusercontent.com/70807687/223594480-b11846e6-c41d-4c09-ba1b-0e3a6b78fc4c.png)
+
+![post response](https://user-images.githubusercontent.com/70807687/223594605-8ab439a3-d4ad-48c6-b9cc-9a79a3320eec.png)
+
+
 
 Para consultar os status do pagamento, basta inserir o id e se a hora do pagamento chegou, recebe os status "paid"
 
-(C:\Users\Jose\Downloads\get response)
+![get response](https://user-images.githubusercontent.com/70807687/223594700-bcbf3586-f512-459a-8854-55e1532477db.png)
+
+
